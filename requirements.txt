@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+matplotlib-inline
+adjustText
+seaborn
+scikit-learn
+scikit-optimize
+umap-learn
+ipykernel
